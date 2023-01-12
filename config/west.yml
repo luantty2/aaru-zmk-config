@@ -1,7 +1,7 @@
 manifest:
   remotes:
-    - name: zmk
-      url-base: https://github.com/luantty2/zmk
+    - name: luantty2
+      url-base: https://github.com/luantty2
   projects:
     - name: zmk
       remote: luantty2

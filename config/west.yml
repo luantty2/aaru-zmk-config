@@ -1,6 +1,6 @@
 manifest:
   remotes:
-    - name: luantty2
+    - name: zmkfirmware
       url-base: https://github.com/luantty2/zmkfirmware
   projects:
     - name: zmk
